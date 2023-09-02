@@ -1,0 +1,18 @@
+[2023-08-31 10:03:31 INFO]: install::setup-logging ended
+================
+[2023-08-31 10:03:31 INFO]: install::start-up started
+[2023-08-31 10:03:31 INFO]: install::start-up setting display permissions to localhost
+[2023-08-31 10:03:31 INFO]: install::start-up build image
+[2023-08-31 10:03:31 INFO]: install::start-up running image
+[2023-08-31 10:03:31 INFO]: install::start-up ended
+================
+[2023-08-31 10:06:20 INFO]: install::root-check started
+[2023-08-31 10:06:20 INFO]: install::root-check ended
+================
+[2023-08-31 10:06:20 INFO]: install::docker-check started
+[2023-08-31 10:06:20 INFO]: install::docker-check ended
+================
+[2023-08-31 10:06:20 INFO]: install::tear-down started
+[2023-08-31 10:06:20 INFO]: install::tear-down services removed
+[2023-08-31 10:06:20 INFO]: install::tear-down ended
+================
